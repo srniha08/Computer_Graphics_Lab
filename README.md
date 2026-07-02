@@ -30,7 +30,7 @@ This repository contains Computer Graphics Lab programs written in the **C progr
 
 ## Language
 
-* C
+* C/ C++
 
 ## Tools Used
 
