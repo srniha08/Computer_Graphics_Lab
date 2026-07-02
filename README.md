@@ -12,7 +12,7 @@ This repository contains Computer Graphics Lab programs written in the **C progr
 ## How to Run
 
 1. Write or edit the program in Code::Blocks.
-2. Copy the `.c` file to the Turbo C directory.
+2. Copy the `.c` / `.cpp` file to the Turbo C directory.
 3. Open DOSBox and mount the Turbo C folder.
 4. Start Turbo C.
 5. Open the program, compile it, and run it.
